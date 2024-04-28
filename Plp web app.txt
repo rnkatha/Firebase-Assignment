@@ -1,0 +1,6 @@
+apiKey: "AIzaSyDvbok-zgoQQOtjNV-pwcObZs-e6LMEKtg",
+  authDomain: "plp-app-59b40.firebaseapp.com",
+  projectId: "plp-app-59b40",
+  storageBucket: "plp-app-59b40.appspot.com",
+  messagingSenderId: "707422415286",
+  appId: "1:707422415286:web:39e2e63094561edb5f3917"

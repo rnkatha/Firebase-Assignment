@@ -30,7 +30,7 @@ body {
 }
 
 .task-form button:hover {
-    background-color: darkgreen;
+    background-color: #45a049;
 }
 
 .task-item {
